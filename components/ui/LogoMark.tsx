@@ -4,7 +4,6 @@ import { cn } from "@/lib/cn";
  * Brand mark, "the return loop": a looping arrow that reads as a "C" and
  * points back into itself (buyers coming back), around a centre dot (the
  * customer), on a teal tile. Animated by the "Logo" block in globals.css.
- * Keep app/icon.svg in sync with this drawing.
  */
 export function LogoMark({ className }: { className?: string }) {
   return (
